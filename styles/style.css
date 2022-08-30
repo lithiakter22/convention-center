@@ -102,3 +102,7 @@ font-weight: 500;
     margin-top: 100px;
     
 } 
+.package .card-body{
+    font-size: 50px;
+
+}
