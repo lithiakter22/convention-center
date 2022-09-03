@@ -1,4 +1,4 @@
-body{
+ body{
     background:f1fbff; 
 }
 .section-padding{
@@ -63,7 +63,7 @@ font-weight: 500;
     height: 100vh;
 }
 /* ====css responsive==== */
-
+ 
 @media  only  screen and (min-width:768px) and (max-wi: 991px){
     .carousel-caption{
         bottom: 100px;
@@ -95,14 +95,14 @@ font-weight: 500;
         line-height: 1.6;
         font-size:12px ;
     }
-}
+} 
 
 /* ====== ====  about section===========  */
- .about-section-padding{
+  .about-section-padding{
     margin-top: 100px;
     
 } 
 .package .card-body{
     font-size: 50px;
 
-}
+} 
